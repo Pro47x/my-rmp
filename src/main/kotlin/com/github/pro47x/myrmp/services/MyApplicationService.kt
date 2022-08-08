@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.pro47x.myrmp.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.pro47x.myrmp.MyBundle
 
 class MyApplicationService {
 

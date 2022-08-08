@@ -1,9 +1,9 @@
-package org.jetbrains.plugins.template.listeners
+package com.github.pro47x.myrmp.listeners
 
 import com.intellij.openapi.components.service
 import com.intellij.openapi.project.Project
 import com.intellij.openapi.project.ProjectManagerListener
-import org.jetbrains.plugins.template.services.MyProjectService
+import com.github.pro47x.myrmp.services.MyProjectService
 
 internal class MyProjectManagerListener : ProjectManagerListener {
 
